@@ -26,7 +26,7 @@ Aplicar los conceptos de Material Design en el diseño y desarrollo de una pági
 
 1. Clonar este repositorio en tu computadora local con el comando: 
 ```
-git clone 
+git clone https://github.com/jacortez3/Portafolio-Jonathan.git
 ```
 
 2. Instalar los  paquetes npm requeridos con el siguiente comando:
